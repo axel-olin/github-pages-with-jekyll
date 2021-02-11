@@ -1,3 +1,7 @@
+---
+title: "First blog post"
+date: 2021-02-11
+
 # First blog post
 
 This is a first blog post that I'm writing as part of a github course to create
