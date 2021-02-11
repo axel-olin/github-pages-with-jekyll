@@ -1,6 +1,7 @@
 ---
 title: "First blog post"
 date: 2021-02-11
+---
 
 # First blog post
 
